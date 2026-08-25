@@ -21,6 +21,7 @@ Originally planted bugs (now hardened — see security fixes PR):
 
 from __future__ import annotations
 
+import utils.session
 import html
 import ipaddress
 import json

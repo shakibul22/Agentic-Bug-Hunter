@@ -8,7 +8,6 @@ config.json
 *.json.bak
 
 # API keys and tokens
-.env
 secrets.txt
 api_keys.txt
 .private/
@@ -36,3 +35,5 @@ venv/
 nmap-output/
 .atlas/
 .forge/
+config.bat
+node_modules
